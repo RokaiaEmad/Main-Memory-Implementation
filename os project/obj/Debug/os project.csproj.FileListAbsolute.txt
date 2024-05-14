@@ -1,0 +1,14 @@
+D:\MultiMedia\os project\bin\Debug\os project.exe.config
+D:\MultiMedia\os project\bin\Debug\os project.exe
+D:\MultiMedia\os project\bin\Debug\os project.pdb
+D:\MultiMedia\os project\obj\Debug\os project.csproj.AssemblyReference.cache
+D:\MultiMedia\os project\obj\Debug\os project.csproj.SuggestedBindingRedirects.cache
+D:\MultiMedia\os project\obj\Debug\os_project.Properties.Resources.resources
+D:\MultiMedia\os project\obj\Debug\os project.csproj.GenerateResource.cache
+D:\MultiMedia\os project\obj\Debug\os project.csproj.CoreCompileInputs.cache
+D:\MultiMedia\os project\obj\Debug\os project.exe
+D:\MultiMedia\os project\obj\Debug\os project.pdb
+D:\MultiMedia\os project\obj\Debug\os_project.Form1.resources
+D:\MultiMedia\os project\obj\Debug\os_project.Form2.resources
+D:\MultiMedia\os project\obj\Debug\os_project.Form3.resources
+D:\MultiMedia\os project\obj\Debug\os_project.Form4.resources
